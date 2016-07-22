@@ -1,2 +1,3 @@
 Change in local : Local-b
 Change in local : Local-b : 2
+Change in remote : remote-b : 1
