@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Change in local : Local-b
+=======
+Change in local : Local-b
+Change in local : Local-b : 2
+Change in remote : remote-b : 1
+>>>>>>> 3cd8d9608a95f893a7a86bbb0d00b4d0263a8212
